@@ -1,0 +1,6 @@
+c:\users\trankhanhtoan\documents\visual studio 2015\Projects\crawler1\crawler1\bin\Debug\crawler1.exe.config
+c:\users\trankhanhtoan\documents\visual studio 2015\Projects\crawler1\crawler1\bin\Debug\crawler1.exe
+c:\users\trankhanhtoan\documents\visual studio 2015\Projects\crawler1\crawler1\bin\Debug\crawler1.pdb
+c:\users\trankhanhtoan\documents\visual studio 2015\Projects\crawler1\crawler1\obj\Debug\crawler1.csprojResolveAssemblyReference.cache
+c:\users\trankhanhtoan\documents\visual studio 2015\Projects\crawler1\crawler1\obj\Debug\crawler1.exe
+c:\users\trankhanhtoan\documents\visual studio 2015\Projects\crawler1\crawler1\obj\Debug\crawler1.pdb
